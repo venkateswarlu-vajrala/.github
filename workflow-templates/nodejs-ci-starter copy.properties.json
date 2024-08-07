@@ -1,0 +1,11 @@
+{
+  "name": "Organization Starter Workflow",
+  "description": "Organization NodeJS Init CI starter workflow.",
+  "categories": [
+      "NPM Config"
+  ],
+  "iconName" : "octicon cache",
+  "filePatterns": [
+      "package.json$"
+  ]
+}
